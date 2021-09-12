@@ -6,5 +6,4 @@ import java.text.FieldPosition
 
 interface OnRecyclerViewItemClicked {
     fun onBestPlaceItemClicked(position: Int, bestPlace: BestPlace)
-
 }
